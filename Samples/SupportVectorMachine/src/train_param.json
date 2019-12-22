@@ -1,0 +1,5 @@
+{
+    "train_img_folder_path": "../train_data",
+    "predict_img_folder_path": "../test_data",
+    "predict_output_file_path": "../out/predict.txt"
+}
