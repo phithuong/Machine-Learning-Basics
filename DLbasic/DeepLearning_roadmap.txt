@@ -1,0 +1,8 @@
+
+Học deep learning:
+	1. Gradient Descent algorithm và bài toán Linear Regression
+	2. Logistic Regression cho bài toán phân loại
+	3. Activation function và sự quan trọng của nó
+	
+	4. Neural network cho bài toán XOR
+	5. Convolution neural network
